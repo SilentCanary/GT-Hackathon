@@ -1,0 +1,17 @@
+{
+  "Aarav Sharma": {
+    "loyalty_tier": "Gold",
+    "favorite_drinks": ["Caramel Latte", "Hot Chocolate"],
+    "addresses": ["Koramangala, Bangalore", "HSR Layout, Bangalore"]
+  },
+  "User 2": {
+    "loyalty_tier": "Silver",
+    "favorite_drinks": ["Espresso", "Cappuccino"],
+    "addresses": ["Indiranagar, Bangalore"]
+  },
+  "User 5": {
+    "loyalty_tier": "Gold",
+    "favorite_drinks": ["Latte", "Mocha"],
+    "addresses": ["Whitefield, Bangalore"]
+  }
+}

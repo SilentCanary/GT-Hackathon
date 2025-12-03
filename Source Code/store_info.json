@@ -1,0 +1,10 @@
+{
+  "Koramangala": {
+    "opening_hours": "7:00 AM – 11:00 PM",
+    "current_offers": ["10% off Hot Chocolate"]
+  },
+  "Indiranagar": {
+    "opening_hours": "8:00 AM – 10:00 PM",
+    "current_offers": ["Buy 1 Get 1 Free Cappuccino"]
+  }
+}
